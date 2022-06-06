@@ -1,0 +1,86 @@
+.absolute-badge {
+    position: absolute;
+    top: -5px;
+    left: -15px;
+}
+
+.form-hint {
+    font-size: 0.8rem;
+    color: #696d7d;
+}
+
+
+
+#register-container, 
+#confirm-container, 
+#messaging-container, 
+#working-container,
+#password-container,
+
+#deregister-button,
+
+#register-loader,
+#confirm-loader,
+#message-loader,
+#password-loader {
+    display: none;
+}
+
+#register-loader,
+#confirm-loader,
+#message-loader,
+#password-loader{
+    margin: auto;
+}
+
+.show{
+    display: block!important;
+}
+
+.no-show {
+    display: none!important;
+}
+
+/* body { */
+    /* background-image: url('../../img/tims-alone.png'); */
+/* } */
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
+
+nav .logo img {
+    width: 40px;
+    height: 40px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    font-size: 1.2rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
