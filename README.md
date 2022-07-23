@@ -28,3 +28,8 @@ When used please follow the [Telegram rules](https://telegram.org/tos) as the so
 | activate the environment                                                    |     `. env/Scripts/activate`      |                                 [python env](https://docs.python.org/3/tutorial/venv.html) |
 | **FOR FIRST RUN ONLY** <br> install dependecies required to run the project | `pip install -r requirements.txt` | [install requirements using pip](https://note.nkmk.me/en/python-pip-install-requirements/) |
 | run the project                                                             |          `python app.py`          |                                                                                            |
+
+
+## Use
+
+### will come very soon
