@@ -22,12 +22,13 @@ When used please follow the [Telegram rules](https://telegram.org/tos) as the so
 | clone tims repository                 | `git clone https://github.com/cosminneaga/tims` |                                                                                                  [tims](https://github.com/cosminneaga/tims) |
 
 ## Run
-| Step                                                                        |              Command              |                                                                                      Links |
-| :-------------------------------------------------------------------------- | :-------------------------------: | -----------------------------------------------------------------------------------------: |
-| create python environment                                                   |       `python -m venv env`        |                                 [python env](https://docs.python.org/3/tutorial/venv.html) |
-| activate the environment                                                    |     `. env/Scripts/activate`      |                                 [python env](https://docs.python.org/3/tutorial/venv.html) |
-| **FOR FIRST RUN ONLY** <br> install dependecies required to run the project | `pip install -r requirements.txt` | [install requirements using pip](https://note.nkmk.me/en/python-pip-install-requirements/) |
-| run the project                                                             |          `python app.py`          |                                                                                            |
+| Step                                                                        |                                                      Command                                                      |                                                                                      Links |
+| :-------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------: |
+| create python environment                                                   |                                               `python -m venv env`                                                |                                 [python env](https://docs.python.org/3/tutorial/venv.html) |
+| activate the environment                                                    |                                             `. env/Scripts/activate`                                              |                                 [python env](https://docs.python.org/3/tutorial/venv.html) |
+| **FOR FIRST RUN ONLY** <br> install dependecies required to run the project |                                         `pip install -r requirements.txt`                                         | [install requirements using pip](https://note.nkmk.me/en/python-pip-install-requirements/) |
+| run the project                                                             |                                                  `python app.py`                                                  |                                                                                            |
+| run the project                                                             | open the web browser and write in the address bar `localhost` and tap `Enter`, this will open the running project |                                                              [localhost](http://localhost) |
 
 
 ## Use
