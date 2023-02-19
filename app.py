@@ -97,11 +97,6 @@ async def message():
     return Response.success(await Message.sendMessage(req), "")
 
 
-# @app.route("/message/stop", methods=["POST"])
-# async def stopMessage():
-#     req = request.json
-#     return Response.success(req, "")
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port="8080", debug=True)
